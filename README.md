@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dareuta&layout=compact&theme=dracula)
 
+![Youtube](https://www.youtube.com/@%EC%8A%B9%EA%B7%9C-g9v)
+
 <!--
 **Dareuta/Dareuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
